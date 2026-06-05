@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2733-neither-minimum-nor-maximum](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
