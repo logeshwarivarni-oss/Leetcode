@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
