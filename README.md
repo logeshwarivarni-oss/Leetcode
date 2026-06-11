@@ -39,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
