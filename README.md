@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0455-assign-cookies) |
 | [2733-neither-minimum-nor-maximum](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3838-weighted-word-mapping](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,8 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0771-jewels-and-stones) |
+| [3838-weighted-word-mapping](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0455-assign-cookies) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
