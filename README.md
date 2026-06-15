@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0342-power-of-four) |
 | [2235-add-two-integers](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2235-add-two-integers) |
 ## String
@@ -76,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
