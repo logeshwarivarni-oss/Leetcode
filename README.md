@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2574-left-and-right-sum-differences](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3838-weighted-word-mapping](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2733-neither-minimum-nor-maximum](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
