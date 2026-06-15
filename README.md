@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2235-add-two-integers) |
 ## String
 |  |
@@ -81,4 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
