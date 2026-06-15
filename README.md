@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0441-arranging-coins) |
 | [2235-add-two-integers](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2235-add-two-integers) |
 ## String
 |  |
