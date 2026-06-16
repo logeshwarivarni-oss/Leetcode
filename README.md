@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2574-left-and-right-sum-differences](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3838-weighted-word-mapping](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
