@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0509-fibonacci-number) |
+| [1952-three-divisors](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2235-add-two-integers) |
 ## String
 |  |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
