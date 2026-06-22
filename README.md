@@ -37,9 +37,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3838-weighted-word-mapping](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
