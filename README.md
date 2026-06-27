@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0283-move-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0299-bulls-and-cows) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
