@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1929-concatenation-of-array](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2574-left-and-right-sum-differences](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1332-remove-palindromic-subsequences](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3838-weighted-word-mapping](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
