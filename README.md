@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1332-remove-palindromic-subsequences](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
