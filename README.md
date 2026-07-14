@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0917-reverse-only-letters) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0917-reverse-only-letters) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
