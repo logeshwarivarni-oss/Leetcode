@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
