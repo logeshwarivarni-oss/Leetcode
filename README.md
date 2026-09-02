@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0202-happy-number) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0509-fibonacci-number) |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/logeshwarivarni-oss/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
